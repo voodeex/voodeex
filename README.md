@@ -1,5 +1,11 @@
+<!-- 
+  ВАЖНО: 
+  1. Загрузи сгенерированное изображение (image_1770584375168178.png) в этот же репозиторий.
+  2. Нажми на загруженный файл.
+  3. Нажми кнопку "Download" или "Raw", скопируй URL-адрес изображения и вставь его вместо "ССЫЛКА_НА_ТВОЕ_ИЗОБРАЖЕНИЕ.png".
+-->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a6/78/14/a678144458564539b360588832a8af3c.gif" width="100%">
+  <img src="ССЫЛКА_НА_ТВОЕ_ИЗОБРАЖЕНИЕ.png" width="100%">
 </p>
 
 <h1 align="center">
@@ -11,9 +17,9 @@
 
   <h3>🌸 Статистика GitHub 🌸</h3>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=voodeex&show_icons=true&theme=catppuccin_latte&icon_color=f4b8e4&text_color=4c4f69&bg_color=eff1f5&title_color=d20f39&hide_border=true" alt="voodeex's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=voodeex&show_icons=true&theme=tokyonight&icon_color=f7768e&text_color=a9b1d6&bg_color=1a1b26&title_color=ff7a93&hide_border=true&border_radius=10" alt="voodeex's GitHub stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voodeex&layout=compact&theme=catppuccin_latte&icon_color=f4b8e4&text_color=4c4f69&bg_color=eff1f5&title_color=d20f39&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voodeex&layout=compact&theme=tokyonight&icon_color=f7768e&text_color=a9b1d6&bg_color=1a1b26&title_color=ff7a93&hide_border=true&border_radius=10" alt="Top Languages" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=voodeex&theme=catppuccin-latte&background=eff1f5&ring=f4b8e4&fire=d20f39&currStreakNum=4c4f69&sideNums=4c4f69&currStreakLabel=4c4f69&sideLabels=4c4f69&dates=4c4f69&hide_border=true" alt="GitHub Streak" />
 
