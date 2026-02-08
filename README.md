@@ -1,5 +1,8 @@
 <!-- 
-  Не забудь вставить сюда ссылку на твое изображение, которое ты загрузил в репозиторий.
+  ВАЖНО: 
+  1. Загрузи сгенерированное изображение (image_1770584375168178.png) в этот же репозиторий.
+  2. Нажми на загруженный файл.
+  3. Нажми кнопку "Download" или "Raw", скопируй URL-адрес изображения и вставь его вместо "ССЫЛКА_НА_ТВОЕ_ИЗОБРАЖЕНИЕ.png".
 -->
 <p align="center">
   <img src="ССЫЛКА_НА_ТВОЕ_ИЗОБРАЖЕНИЕ.png" width="100%">
@@ -9,31 +12,29 @@
   Привет, я voodeex 👋
 </h1>
 
-<p align="center">
-  <i>Маленький уголок для кода под цветущей сакурой...</i>
-</p>
 
-<h3 align="center">💡 Технологии и инструменты</h3>
-<p align="center">
-  <!-- 
-    Ты можешь легко добавить свои технологии!
-    1. Найди иконку здесь: https://simpleicons.org/
-    2. Скопируй название и цвет.
-    3. Вставь в ссылку ниже.
-    Пример:
-    <img src="https://img.shields.io/badge/НАЗВАНИЕ-ЦВЕТ?style=for-the-badge&logo=НАЗВАНИЕ_ИКОНКИ&logoColor=white" />
-  -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
+  <br>
+
+<div align="center">
+
+  <h3>🌸 Статистика GitHub 🌸</h3>
+
+  <!-- Более стабильная карточка статистики -->
+
+
+  <br>
+
+  <!-- Обновленный счетчик дней -->
+  <img src="https://streak-stats.demolab.com?user=voodeex&theme=catppuccin_latte&background=eff1f5&ring=f4b8e4&fire=d20f39&currStreakNum=4c4f69&sideNums=4c4f69&currStreakLabel=4c4f69&sideLabels=4c4f69&dates=4c4f69&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 <br>
 
 <h3 align="center">
   Найти меня можно здесь
 </h3>
+
 <p align="center">
   <!-- Замени YOUR_USERNAME на свои никнеймы -->
   <a href="https://twitter.com/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=f4b8e4" alt="Twitter"/></a>
