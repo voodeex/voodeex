@@ -5,7 +5,7 @@
   3. Нажми кнопку "Download" или "Raw", скопируй URL-адрес изображения и вставь его вместо "ССЫЛКА_НА_ТВОЕ_ИЗОБРАЖЕНИЕ.png".
 -->
 <p align="center">
-  <img src="ССЫЛКА_НА_ТВОЕ_ИЗОБРАЖЕНИЕ.png" width="100%">
+  <img src="https://github.com/voodeex/voodeex/blob/main/image_1770584375168178.png" width="100%">
 </p>
 
 <h1 align="center">
