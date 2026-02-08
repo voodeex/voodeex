@@ -12,16 +12,21 @@
   Привет, я voodeex 👋
 </h1>
 
+<p align="center">
+  <i>Маленький уголок для кода под цветущей сакурой...</i>
+</p>
 
 <div align="center">
 
   <h3>🌸 Статистика GitHub 🌸</h3>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=voodeex&show_icons=true&theme=tokyonight&icon_color=f7768e&text_color=a9b1d6&bg_color=1a1b26&title_color=ff7a93&hide_border=true&border_radius=10" alt="voodeex's GitHub stats" />
+  <!-- Более стабильная карточка статистики -->
+  <img src="https://metrics.lecoq.io/voodeex?template=classic&base=header%2C%20activity%2C%20community&base.indepth=false&base.hireable=false&languages=true&languages.limit=8&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&config_timezone=Europe%2FMoscow&theme=catppuccin_latte&bg_color=%23eff1f5&text_color=%234c4f69&title_color=%23d20f39&icon_color=%23f4b8e4&border=%23f4b8e4" alt="voodeex's GitHub Metrics" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voodeex&layout=compact&theme=tokyonight&icon_color=f7768e&text_color=a9b1d6&bg_color=1a1b26&title_color=ff7a93&hide_border=true&border_radius=10" alt="Top Languages" />
+  <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voodeex&theme=catppuccin-latte&background=eff1f5&ring=f4b8e4&fire=d20f39&currStreakNum=4c4f69&sideNums=4c4f69&currStreakLabel=4c4f69&sideLabels=4c4f69&dates=4c4f69&hide_border=true" alt="GitHub Streak" />
+  <!-- Обновленный счетчик дней -->
+  <img src="https://streak-stats.demolab.com?user=voodeex&theme=catppuccin_latte&background=eff1f5&ring=f4b8e4&fire=d20f39&currStreakNum=4c4f69&sideNums=4c4f69&currStreakLabel=4c4f69&sideLabels=4c4f69&dates=4c4f69&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
